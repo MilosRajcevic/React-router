@@ -4,6 +4,7 @@ dist
 *.prettierrc
 archive.zip
 public
+.elistache
 
 # IDE - VSCode
 .vscode/*
